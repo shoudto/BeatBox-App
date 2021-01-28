@@ -1,7 +1,5 @@
 # BeatBox-App
-Need to provide info
-
-See project BeatBox App
+I have created a BeatBox App using Javascript, HTML, and CSS.
 
 ## Installation
 
@@ -16,4 +14,4 @@ And then execute:
     a live server
 
 ## Usage
-Need to provide info.
+What this application does is provide three sounds a kick sound, snare sound, and hihat sound. You're able to change the type of sounds, as well as mute the sound or stop the application. Your able to mix sound and create original 
