@@ -8,7 +8,7 @@ See project BeatBox App
 Add this line to your application's ide:
 
 ```javascript
-git clone https://github.com/shoudto/Color-Project-App.git
+git clone https://github.com/shoudto/BeatBox-App.git
 ```
 
 And then execute:
